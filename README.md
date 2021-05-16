@@ -3,6 +3,8 @@
 Classifies Land Use Land Cover in Brazil with Machine Learning and satellite images.
 
 ## Instructions
+- Step 1: Select the area you want to classify and draw a polygon with the tools on the map left bar
+- Step 2: Check the box 'Use user-drawn AOI' and click "Submit" 
 ![app screenshot](./images/Screenshot_1.jpg)
 
 
