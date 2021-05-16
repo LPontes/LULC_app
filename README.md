@@ -17,7 +17,9 @@ The modeling step can be found on notebook/modeling.ipynb
 * warning: This is a in progress project and there are improvements in the modeling process that are needed for a reliable result.
 
 ## Credits
-Sentinel images
-geemap 
+- Google Earth Engine
+- geemap
+- Sentinel images
+
 
 
