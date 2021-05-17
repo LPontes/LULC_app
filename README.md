@@ -1,6 +1,14 @@
-# LULC_app
+# LULC app
 
 Classifies Land Use Land Cover in Brazil with Machine Learning and satellite images.
+This application uses Sentinel-2 images and a Classification Tree algorithm to classify each image pixel on the main landcover classes in Brazil: 
+- Water
+- Bare soil
+- Forest
+- Annual crop
+- Perennial crop
+- Pasture
+- Urban areas
 
 ## Instructions
 - Step 1: Select the area you want to classify and draw a polygon with the tools on the map left bar
